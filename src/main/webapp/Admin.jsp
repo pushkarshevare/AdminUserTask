@@ -22,9 +22,9 @@
     <div class="container mt-4">
         <h1>Task</h1>      
 
-        <!-- Anchor Tags -->
         <a href="AdminLogin.jsp" class="btn btn-primary">Admin Registration</a><br>
-        <a href="/Read" class="btn btn-success">User's Data</a>
+        <a href="/Read" class="btn btn-success">User's Data</a><br>
+        <a href="DeleteUser.jsp" class="btn btn-success">Delete User</a>
     </div>
 
     <!-- Bootstrap JS and Popper.js -->
